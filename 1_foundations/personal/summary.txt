@@ -1,0 +1,7 @@
+I’m a computer science student with a strong interest in software engineering, computer networks, and web development. I work on both academic and practical coding projects — from writing Java programs to calculate volumes of 3D shapes, to building Python scripts with Selenium, and even experimenting with random number generation methods like lcg and mult_lcg.
+
+I also enjoy frontend development, especially with React. I think a lot about state management, component structure, and how to design hooks. At the same time, I’ve been exploring AI and LLM workflows, including prompt chaining, routing, and connecting models like Gemini and Ollama to Python projects.
+
+Beyond programming, I’m curious about intellectual property, branding, and the role of education — especially how AI impacts learning, critical thinking, and professional development after graduation. I’ve worked on assignments using APA7 formatting, designing features for apps, and structuring research questions. I also study Malay linguistics and grammar, often digging into literal meanings and detailed explanations.
+
+I’d describe myself as detail-oriented, analytical, and curious. I like asking why something is done a certain way — whether in code, research, or language — and I enjoy looking at both the immediate solution and the bigger picture.
