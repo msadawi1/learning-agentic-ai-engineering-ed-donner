@@ -12,7 +12,8 @@ This repo is my personal space for documenting my journey into the fascinating w
 
 ---
 
-- This repo belongs to Ed Donner: [Original Repo](https://github.com/ed-donner/agents). 
+- This repo is forked from Ed Donner: [Original Repo](https://github.com/ed-donner/agents).
+- Contributions are on the original repo. Not on this.
 - This repo is not a polished course. It’s my **learning lab**. The content you will find will be similar to that in Ed's repo, but with extra notes and more projects applying Agentic AI solutions
 
 ---
@@ -20,5 +21,5 @@ This repo is my personal space for documenting my journey into the fascinating w
 ## Why am I doing this?
 
 This repo is meant to be fun, exploratory, and honest. I’ll share both the “aha!” moments and the headaches. 
-<br>
+<br><br>
 If you’re also exploring Agentic AI, feel free to connect with me via LinkedIn!
