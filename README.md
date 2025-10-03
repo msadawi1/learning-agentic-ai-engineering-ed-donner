@@ -12,5 +12,5 @@ This repo is my personal space for documenting my journey into the fascinating w
 
 ---
 
-This repo belongs to Ed Donner: [Original Repo](https://github.com/ed-donner/agents)
-This repo is not a polished course. It’s my **learning lab**. The content you will find will be similar to that in Ed's repo, but with extra notes and more projects applying Agentic AI solutions
+- This repo belongs to Ed Donner: [Original Repo](https://github.com/ed-donner/agents). 
+- This repo is not a polished course. It’s my **learning lab**. The content you will find will be similar to that in Ed's repo, but with extra notes and more projects applying Agentic AI solutions
