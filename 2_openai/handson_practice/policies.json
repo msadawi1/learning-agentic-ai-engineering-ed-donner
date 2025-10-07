@@ -1,0 +1,49 @@
+{
+  "Delivery": {
+    "LateDelivery": {
+      "policy": "Some orders may be less than 5 days late. If an order is delayed for more than 5 business days, apologize for the inconvenience and offer a 10% discount or free shipping on the next order.",
+      "action": "Ask customer to wait a few more days if the order is not 5 days or more late. Request the customer's order ID to apply the discount (if applicable)",
+      "tone": "Empathetic and reassuring. Acknowledge the frustration and show commitment to resolving the issue."
+    },
+    "LostPackage": {
+      "policy": "If the package is not delivered, initiate a replacement or refund process.",
+      "action": "Ask for the order ID. Offer replacement or refund per customer preference.",
+      "tone": "Professional and helpful. Focus on resolution, not blame."
+    },
+    "ChangeAddress": {
+      "policy": "Changes are allowed only before the order is dispatched.",
+      "action": "Ask customer if the order is already dispatched, if so, advise the customer to contact the courier directly. Otherwise tell the customer to change the delivery adderss from the orders page",
+      "tone": "Polite and informative. Emphasize policy boundaries clearly."
+    }
+  },
+
+  "Billing": {
+    "RefundRequest": {
+      "policy": "Opened packages can't be refunded. Refunds are processed within 3–5 business days once approved by billing verification.",
+      "action": "Collect order ID and payment method.",
+      "tone": "Courteous and transparent. Clarify policy and expected refund time."
+    },
+    "PaymentFailure": {
+      "action": "Ask customer to confirm payment details or try an alternate method.",
+      "tone": "Friendly and understanding. Avoid technical jargon."
+    }
+  },
+
+  "Technical": {
+    "ConnectionIssue": {
+      "policy": "For connection issues, customers should first reboot their router and check cable connections.",
+      "action": "Guide the customer through basic troubleshooting. If unresolved, escalate to the technical team.",
+      "tone": "Calm and instructional. Avoid overwhelming the user."
+    },
+    "AppCrash": {
+      "policy": "If the app crashes repeatedly, advise reinstalling and clearing cached data.",
+      "action": "Provide step-by-step reinstall instructions. If crash persists, collect device logs for technical review.",
+      "tone": "Supportive and patient. Reinforce confidence in solving the issue."
+    },
+    "ForgotPassword": {
+      "policy": "If a user forgot their account's password, send an email for password restart.",
+      "action": "Ask for the user's email.",
+      "tone": "Reassuring and security-conscious."
+    }
+  }
+}
